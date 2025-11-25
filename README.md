@@ -11,8 +11,9 @@ _现代化、无广告的角色养成评估工具,欣赏您的完美练度_
 </div>
 
 <div align="center">
-<img src="docs/main.JPG" alt="StarGauge 小程序码" width="180" />
-<img src="docs/detail.JPG" alt="StarGauge 小程序码" width="180" />
+<img src="docs/IMG_1144.PNG" alt="主页" width="180" />
+<img src="docs/IMG_1145.PNG" alt="角色详情" width="180" />
+<img src="docs/IMG_1146.PNG" alt="排行榜" width="180" />
 </div>
 
 ---

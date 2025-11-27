@@ -93,7 +93,7 @@ _现代化、无广告的角色养成评估工具,欣赏您的完美练度_
 
 ## 📄 许可协议
 
-Copyright © 2024 StarGauge. All rights reserved.
+Copyright © 2025 StarGauge. All rights reserved.
 
 本项目暂时采用私有协议。
 
